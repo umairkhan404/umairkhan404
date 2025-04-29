@@ -1,9 +1,10 @@
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpibnVwZDdqcHI5MnA3Y3AwZnN5NzNyaGgxY21zaXliYXlvNHp2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif"  />
-</div>
 
 ###
+![hacker hacking GIF](https://github.com/user-attachments/assets/bc79fd7a-1d72-4580-989c-cffee2034c48)
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+⚠️+404+error+⚠️;" />
+</h1>
 <h2 align="left">UMAIR KHAN 404</h2>
 
 ###
@@ -44,5 +45,6 @@
 <p align="center">
   <img src="https://github.com/umairkhan404/umairkhan404/blob/output/pacman-contribution-graph-dark.svg?raw=true" alt="pacman_gif" />
 </p>
+
 
 
