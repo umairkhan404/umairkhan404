@@ -48,10 +48,12 @@
 <p align="center">
   <img src="https://github.com/umairkhan404/umairkhan404/blob/output/pacman-contribution-graph-dark.svg?raw=true" alt="pacman_gif" />
 </p>
+
+###
 <p align="center">
-![images](https://github.com/user-attachments/assets/cdc0050a-175c-4c23-9276-1e27734e1219)
-![Loop Glitch GIF by Death Orgone](https://github.com/user-attachments/assets/4d6572b4-e11a-4cc6-8e46-9a47feba71f5)
+  <img src="https://github.com/user-attachments/assets/0b71e4a7-75ac-4dd7-9170-a50dffb7a1f3" alt="icegif-506" />
 </p>
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/umairkhan404/count.svg?"  />
