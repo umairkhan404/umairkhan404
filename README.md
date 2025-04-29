@@ -50,8 +50,15 @@
 </p>
 
 ###
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b71e4a7-75ac-4dd7-9170-a50dffb7a1f3" alt="icegif-506" />
+  <img src="https://github.com/user-attachments/assets/0b71e4a7-75ac-4dd7-9170-a50dffb7a1f3" alt="icegif-506" height="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/9e1672c8-671d-44d5-b319-4e5517f71233" alt="Loop Glitch GIF by Death Orgone" height="200" />
+</p>
+
+
 </p>
 
 
