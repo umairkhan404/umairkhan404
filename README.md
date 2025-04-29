@@ -48,6 +48,8 @@
 <p align="center">
   <img src="https://github.com/umairkhan404/umairkhan404/blob/output/pacman-contribution-graph-dark.svg?raw=true" alt="pacman_gif" />
 </p>
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/umairkhan404/count.svg?"  />
+</div>
 
 
