@@ -61,7 +61,9 @@
 
 
 ###
-<h2 align="left">📶"Github stats"
+<h2 align="left">📶 "Github stats"</h2>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umairkhan404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -70,6 +72,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=umairkhan404&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkhan404&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 
 ###
 ###
@@ -87,11 +90,29 @@
 </p>
 
 
+
+<h2 align="left">🎧"My Spotify Playlist: Who? Click on the icon to enter the 'Gate of Peace."</h2>
+
+<br>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/1ATKBQzSe5AirViSsfKWaE" target="_blank">
+    <img src="https://github.com/user-attachments/assets/45cecc7d-466d-43cf-bddb-869a0e808511" height="200" alt="original-8953c5cfc4bf26578308d60adb6069e6" />
+  </a>
 </p>
 
 
+
+
+
+
+<h2 align="left">⏱️ "Page View Counter"</h2>
+
+<br> <!-- This creates a line break -->
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/umairkhan404/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/umairkhan404/count.svg?" />
 </div>
+
 
 
