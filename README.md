@@ -1,6 +1,9 @@
 
 ###
-![hacker hacking GIF](https://github.com/user-attachments/assets/bc79fd7a-1d72-4580-989c-cffee2034c48)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc79fd7a-1d72-4580-989c-cffee2034c48" alt="hacker hacking GIF" />
+</p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+⚠️+404+error+⚠️;" />
