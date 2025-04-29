@@ -41,4 +41,8 @@
 </div>
 
 ###
-![pacman_gif](https://github.com/umairkhan404/umairkhan404/blob/output/pacman-contribution-graph-dark.svg?short_path=092e1ea)
+<p align="center">
+  <img src="https://github.com/umairkhan404/umairkhan404/blob/output/pacman-contribution-graph-dark.svg?raw=true" alt="pacman_gif" />
+</p>
+
+
