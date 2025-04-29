@@ -41,16 +41,6 @@
 <img width="12" />
 <img src="https://github.com/user-attachments/assets/3a6f79a2-dba3-4022-8fcd-0b32f487e1d3" height="30" alt="Nmap logo" />
 <img width="12" />
-
-
-
-
-
-
-
-
-
-
 </div>
 
 
@@ -61,6 +51,11 @@
 </h2>
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://github.com/user-attachments/assets/ad586402-a5c8-42fe-a90d-b264c9f554d0" width="52" height="40" alt="Send Me You've Got Mail GIF by mrjonjon" />
+<a href="mailto:umairkhanchandio1@gmail.com">
+  <img src="https://github.com/user-attachments/assets/ad586402-a5c8-42fe-a90d-b264c9f554d0" width="52" height="40" alt="Send Me You've Got Mail GIF by mrjonjon" />
+</a>
+
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 
