@@ -55,7 +55,9 @@
   <img src="https://github.com/user-attachments/assets/ad586402-a5c8-42fe-a90d-b264c9f554d0" width="52" height="40" alt="Send Me You've Got Mail GIF by mrjonjon" />
 </a>
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+<a href="https://tryhackme.com/p/umairkhan999" target="_blank">
+  <img src="https://github.com/user-attachments/assets/3f87909d-3082-4905-8dc5-bec85e8ba040" width="52" height="40" alt="TryHackMe Profile - umairkhan999" />
+</a>
 
 
 ###
