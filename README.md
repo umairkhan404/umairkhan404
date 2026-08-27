@@ -63,33 +63,23 @@
 ###
 <h2 align="left">📶 "Github stats"</h2>
 
-
-
 <br>
 
 <div align="center">
+  <!-- Stats graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=umairkhan404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
 
-  <!-- GitHub Stats (stable) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=umairkhan404&show_icons=true&theme=dracula" height="160"/>
+  <!-- Language graph -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umairkhan404&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkhan404&layout=compact&theme=dracula" height="160"/>
+  <!-- Streak graph -->
+  <img src="https://streak-stats.demolab.com?user=umairkhan404&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 
-  <br><br>
+  <!-- Trophy graph -->
+  <img src="https://github-profile-trophy.vercel.app?username=umairkhan404&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 
-  <!-- Streak (alternative stable endpoint) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=umairkhan404&theme=dracula" height="160"/>
-
-  <br><br>
-
-  <!-- Trophy (light version) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=umairkhan404&theme=dracula&no-frame=true&margin-w=8" height="150"/>
-
-  <br><br>
-
-  <!-- Activity Graph (MOST STABLE) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkhan404&theme=react-dark" height="300"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkhan404&theme=react-dark" />
+  <!-- Activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkhan404&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
 
 
