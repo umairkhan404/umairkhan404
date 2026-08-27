@@ -121,7 +121,7 @@
 <br> <!-- This creates a line break -->
 
 <div align="center">
-https://profile-counter.glitch.me/umairkhan404/count.svg
+  <img src="https://profile-counter.glitch.me/umairkhan404/count.svg" />
 </div>
 
 
