@@ -121,7 +121,7 @@
 <br> <!-- This creates a line break -->
 
 <div align="center">
-  [<img src="https://profile-counter.glitch.me/umairkhan404/count.svg?" />](https://github-readme-stats.vercel.app/api?username=umairkhan404&show_icons=true&theme=dracula)
+https://profile-counter.glitch.me/umairkhan404/count.svg
 </div>
 
 
