@@ -89,7 +89,7 @@
 
   <!-- Activity Graph (FIXED URL) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkhan404&theme=react-dark&area=true" height="300"/>
-
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=umairkhan404&theme=react-dark" />
 </div>
 
 
