@@ -119,7 +119,7 @@
 <h2 align="left">⏱️ Page View Counter</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/umairkhan404.svg" />
+  <img src="https://komarev.com/ghpvc/?username=umairkhan404&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
 
