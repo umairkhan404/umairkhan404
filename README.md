@@ -70,26 +70,26 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=umairkhan404&show_icons=true&theme=dracula&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umairkhan404&show_icons=true&theme=dracula" height="160"/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkhan404&layout=compact&theme=dracula&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairkhan404&layout=compact&theme=dracula" height="160"/>
 
   <br><br>
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=umairkhan404&theme=dracula&hide_border=false" height="160"/>
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=umairkhan404&theme=dracula" height="160"/>
 
   <br><br>
 
   <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=umairkhan404&theme=dracula&no-frame=false&no-bg=false&margin-w=8" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=umairkhan404&theme=dracula" height="150"/>
 
   <br><br>
 
-  <!-- Activity Graph (FIXED URL) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkhan404&theme=react-dark&area=true" height="300"/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=umairkhan404&theme=react-dark" />
+  <!-- WORKING Activity Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=umairkhan404&theme=react-dark" height="300"/>
+
 </div>
 
 
