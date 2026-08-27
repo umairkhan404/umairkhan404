@@ -119,10 +119,8 @@
 <h2 align="left">⏱️ Page View Counter</h2>
 
 <div align="center">
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=umairkhan404&label=VISITORS&style=for-the-badge&color=blueviolet" />
-
+<img src="https://komarev.com/ghpvc/?username=umairkhan404&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6" />
 
 </div>
 
