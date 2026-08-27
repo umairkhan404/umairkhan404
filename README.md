@@ -69,7 +69,7 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (stable) -->
   <img src="https://github-readme-stats.vercel.app/api?username=umairkhan404&show_icons=true&theme=dracula" height="160"/>
 
   <!-- Top Languages -->
@@ -77,18 +77,18 @@
 
   <br><br>
 
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=umairkhan404&theme=dracula" height="160"/>
+  <!-- Streak (alternative stable endpoint) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umairkhan404&theme=dracula" height="160"/>
 
   <br><br>
 
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=umairkhan404&theme=dracula" height="150"/>
+  <!-- Trophy (light version) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=umairkhan404&theme=dracula&no-frame=true&margin-w=8" height="150"/>
 
   <br><br>
 
-  <!-- WORKING Activity Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=umairkhan404&theme=react-dark" height="300"/>
+  <!-- Activity Graph (MOST STABLE) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkhan404&theme=react-dark" height="300"/>
 
 </div>
 
