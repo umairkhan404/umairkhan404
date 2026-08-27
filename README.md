@@ -89,9 +89,7 @@
 
   <!-- Activity Graph (MOST STABLE) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkhan404&theme=react-dark" height="300"/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkhan404&theme=react-dark&area=true&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkhan404&theme=react-dark" />
 </div>
 
 
