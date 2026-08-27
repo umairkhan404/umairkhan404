@@ -116,12 +116,10 @@
 
 
 
-<h2 align="left">⏱️ "Page View Counter"</h2>
-
-<br> <!-- This creates a line break -->
+<h2 align="left">⏱️ Page View Counter</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/umairkhan404/count.svg" />
+  <img src="https://profile-counter.glitch.me/umairkhan404.svg" />
 </div>
 
 
