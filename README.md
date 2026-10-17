@@ -128,8 +128,6 @@ My goal is to start my career as a **SOC Analyst Level 1**, where I can help mon
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="SQL" />
-</p>
 
 - Log analysis and event investigation
 - TCP/IP, DNS, DHCP, HTTP, and common network protocols
@@ -153,11 +151,7 @@ My goal is to start my career as a **SOC Analyst Level 1**, where I can help mon
 
 ## 🎯 My Learning Roadmap
 
-- [x] Install Elasticsearch and Kibana in a virtual lab
-- [x] Explore Kibana Discover and sample data
-- [x] Practice basic Elastic Workflows
 - [x] Review Windows logon event details
-- [ ] Integrate Windows logs into Elastic
 - [ ] Build and test a basic security detection rule
 - [ ] Investigate a simulated suspicious login
 - [ ] Add an Active Directory lab and investigate domain events
